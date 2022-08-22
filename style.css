@@ -351,7 +351,13 @@ footer{
   text-align: center;
   padding: 26px; 0;
 }
-footer p{
+.ft p{
+  color: #e24;
+  font-size: 0.875rem;
+  font-family: 'Edu VIC WA NT Beginner', cursive;
+  font-family: 'Noto Serif JP', serif;
+}
+.fp p{
   color: #e24;
   font-size: 0.875rem;
   font-family: 'Edu VIC WA NT Beginner', cursive;
